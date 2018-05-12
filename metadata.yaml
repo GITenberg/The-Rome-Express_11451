@@ -1,10 +1,8 @@
 _repo: The-Rome-Express_11451
-_version: 0.0.1
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 11451/11451-h/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 11451-h/cover.jpg
 creator:
   author:
     agent_name: Griffiths, Arthur
@@ -19,6 +17,8 @@ description: This fast-paced detective story, written by Major Arthur Griffiths 
   a keen nose for the wrong clue - all the ingredients of a rip-roaring mystery from
   the age of steam. This version has been specially formatted for today's e-readers
   by Andrews UK.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11451#The-Rome-Express
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
